@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Tower defense simulator</title>
-        <link rel="styleshee" href="style.css">
+        <link rel="stylesheet" href="style.css">
     </head>
     <body>
         <header>
